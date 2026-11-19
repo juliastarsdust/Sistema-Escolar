@@ -29,3 +29,7 @@ O banco possui sete tabelas:
 
 ## Objetivo
 Aplicar conceitos de normalização, chaves primárias, chaves estrangeiras e relacionamentos entre tabelas.
+## Participação do Integrante A
+
+Responsável pela organização das informações,
+planejamento do banco de dados e revisão dos scripts SQL.
