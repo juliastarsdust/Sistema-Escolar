@@ -29,7 +29,14 @@ O banco possui sete tabelas:
 
 ## Objetivo
 Aplicar conceitos de normalização, chaves primárias, chaves estrangeiras e relacionamentos entre tabelas.
+ integrante-b
 ## Participação do Integrante B
 
 Responsável pela organização do Kanban,
 desenvolvimento dos scripts SQL e controle de versões.
+
+## Participação do Integrante A
+
+Responsável pela organização das informações,
+planejamento do banco de dados e revisão dos scripts SQL.
+ main
